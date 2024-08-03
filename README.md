@@ -12,7 +12,7 @@ CLOUDINARY_API_KEY = ""
 
 CLOUDINARY_SECRET_KEY = ""
 
-MONGODB_URI = ""
+MONGODB_URL = ""
 ----------------------------
 
 After this step
