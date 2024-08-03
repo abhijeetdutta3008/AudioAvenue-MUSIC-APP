@@ -7,8 +7,11 @@ To RUN this project in your local computer
 First create a .env file in the backend source code folder then add with your own code in this format
 ----------------------------
 CLOUDINARY_NAME = ""
+
 CLOUDINARY_API_KEY = ""
+
 CLOUDINARY_SECRET_KEY = ""
+
 MONGODB_URI = ""
 ----------------------------
 
