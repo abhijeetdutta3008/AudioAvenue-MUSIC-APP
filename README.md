@@ -1,5 +1,5 @@
 AUDIO AVENUE MUSIC APP (Full-Stack)
-I developed this project using React + Vite for FrontEnd , Expressjs for Backend, MongoDB for Database, 
+I developed this project using React + Vite for FrontEnd , Nodejs and Expressjs for Backend, MongoDB Atlas for Database, 
 and Cloudinary Management System  (Image and video upload, storage, optimization and CDN )for storage of music, picture.
 
 
