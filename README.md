@@ -1,13 +1,17 @@
+🎵 AUDIO AVENUE MUSIC APP 🎶
 
-#🎵 AUDIO AVENUE MUSIC APP 🎶
 A Full-Stack Music Streaming Application
 
 🚀 Built with cutting-edge technologies for a seamless audio experience:
 
 🛠️ Tech Stack
+
 Frontend: React + Vite ⚡
+
 Backend: Node.js + Express.js 🌐
+
 Database: MongoDB Atlas 🌍
+
 Storage & Media Management: Cloudinary (Image & Video Upload, Storage, Optimization, CDN) ☁️
 🎉 Features
 🎧 Stream your favorite music effortlessly
