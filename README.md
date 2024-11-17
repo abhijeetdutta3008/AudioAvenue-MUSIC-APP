@@ -13,11 +13,17 @@ Backend: Node.js + Express.js 🌐
 Database: MongoDB Atlas 🌍
 
 Storage & Media Management: Cloudinary (Image & Video Upload, Storage, Optimization, CDN) ☁️
+
 🎉 Features
+
 🎧 Stream your favorite music effortlessly
+
 🖼️ Optimized image & album art storage
+
 📀 High-quality music delivery through CDN
+
 🌟 Why AUDIO AVENUE?
+
 A modern, scalable, and efficient solution for music lovers and artists alike!
 
 
